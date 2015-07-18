@@ -1,1 +1,1 @@
-# harp-static-site-template
+# harp-static-blog-template
